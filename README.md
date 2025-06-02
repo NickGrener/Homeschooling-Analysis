@@ -1,4 +1,4 @@
-# Createive Component, STAT 6990
+# Creative Component, STAT 6990
 **Project:** A Spatial Model of Home School Enrollment Trends with Missing and Censored Data
 
 **Terms** Spring 2024 & Fall 2024
