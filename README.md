@@ -13,28 +13,7 @@
  associated with the increase in homeschooling at the district level.
 
 ### Required R Packages
-maps
-tidycensus
-units
-tidyverse
-sf
-tigris
-mapview
-tmap
-leafsync
-ggspatial
-remotes
-readxl
-ggplot2
-car
-MASS
-Matrix
-fdrtool
-mvtnorm
-truncnorm
-spdep
-here
-epinet
+maps, tidycensus, units, tidyverse, sf, tigris, mapview, tmap, leafsync, ggspatial, remotes, readxl, ggplot2, car, MASS, Matrix, fdrtool, mvtnorm, truncnorm, spdep, here, epinet
 
 ## Parameters
 The code needs to be run in the following order:
